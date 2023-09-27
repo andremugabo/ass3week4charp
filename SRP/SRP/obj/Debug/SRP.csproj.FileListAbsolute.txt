@@ -1,0 +1,12 @@
+D:\corses\courses\dotnet_projects\SRP\SRP\bin\Debug\SRP.exe.config
+D:\corses\courses\dotnet_projects\SRP\SRP\bin\Debug\SRP.exe
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.csproj.AssemblyReference.cache
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.Login.resources
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.Properties.Resources.resources
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.Signup.resources
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.csproj.GenerateResource.cache
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.csproj.CoreCompileInputs.cache
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.exe
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.pdb
+D:\corses\courses\dotnet_projects\SRP\SRP\bin\Debug\SRP.pdb
+D:\corses\courses\dotnet_projects\SRP\SRP\obj\Debug\SRP.Department.resources
